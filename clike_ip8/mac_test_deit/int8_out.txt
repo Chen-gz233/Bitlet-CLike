@@ -1,0 +1,607 @@
+w_shape: torch.Size([192, 576])
+a_shape: torch.Size([1, 197, 192])
+after modify:
+w_shape: torch.Size([1, 192, 576])
+a_shape: torch.Size([1, 197, 192])
+
+572679.0
+33687
+cp_time 42.18291473388672
+This is layer 1
+w[layerX]  1222_quantized
+WEIGHT_NAME = 1222_quantized
+MED_LAYER_NAME = 237_quantized
+w_shape: torch.Size([192, 192])
+a_shape: torch.Size([1, 197, 192])
+after modify:
+w_shape: torch.Size([1, 192, 192])
+a_shape: torch.Size([1, 197, 192])
+
+190893.0
+11229
+cp_time 14.275979042053223
+This is layer 2
+w[layerX]  1223_quantized
+WEIGHT_NAME = 1223_quantized
+MED_LAYER_NAME = 252_quantized
+w_shape: torch.Size([192, 768])
+a_shape: torch.Size([1, 197, 192])
+after modify:
+w_shape: torch.Size([1, 192, 768])
+a_shape: torch.Size([1, 197, 192])
+
+763572.0
+44916
+cp_time 54.89821934700012
+This is layer 3
+w[layerX]  1224_quantized
+WEIGHT_NAME = 1224_quantized
+MED_LAYER_NAME = 263_quantized
+w_shape: torch.Size([768, 192])
+a_shape: torch.Size([1, 197, 768])
+after modify:
+w_shape: torch.Size([1, 768, 192])
+a_shape: torch.Size([1, 197, 768])
+
+763572.0
+44916
+cp_time 55.16722917556763
+This is layer 4
+w[layerX]  1225_quantized
+WEIGHT_NAME = 1225_quantized
+MED_LAYER_NAME = 278_quantized
+w_shape: torch.Size([192, 576])
+a_shape: torch.Size([1, 197, 192])
+after modify:
+w_shape: torch.Size([1, 192, 576])
+a_shape: torch.Size([1, 197, 192])
+
+572679.0
+33687
+cp_time 41.39394021034241
+This is layer 5
+w[layerX]  1228_quantized
+WEIGHT_NAME = 1228_quantized
+MED_LAYER_NAME = 322_quantized
+w_shape: torch.Size([192, 192])
+a_shape: torch.Size([1, 197, 192])
+after modify:
+w_shape: torch.Size([1, 192, 192])
+a_shape: torch.Size([1, 197, 192])
+
+190893.0
+11229
+cp_time 14.008957386016846
+This is layer 6
+w[layerX]  1229_quantized
+WEIGHT_NAME = 1229_quantized
+MED_LAYER_NAME = 337_quantized
+w_shape: torch.Size([192, 768])
+a_shape: torch.Size([1, 197, 192])
+after modify:
+w_shape: torch.Size([1, 192, 768])
+a_shape: torch.Size([1, 197, 192])
+
+763572.0
+44916
+cp_time 55.213632345199585
+This is layer 7
+w[layerX]  1230_quantized
+WEIGHT_NAME = 1230_quantized
+MED_LAYER_NAME = 348_quantized
+w_shape: torch.Size([768, 192])
+a_shape: torch.Size([1, 197, 768])
+after modify:
+w_shape: torch.Size([1, 768, 192])
+a_shape: torch.Size([1, 197, 768])
+
+763572.0
+44916
+cp_time 54.809950828552246
+This is layer 8
+w[layerX]  1231_quantized
+WEIGHT_NAME = 1231_quantized
+MED_LAYER_NAME = 363_quantized
+w_shape: torch.Size([192, 576])
+a_shape: torch.Size([1, 197, 192])
+after modify:
+w_shape: torch.Size([1, 192, 576])
+a_shape: torch.Size([1, 197, 192])
+
+572679.0
+33687
+cp_time 41.43696570396423
+This is layer 9
+w[layerX]  1234_quantized
+WEIGHT_NAME = 1234_quantized
+MED_LAYER_NAME = 407_quantized
+w_shape: torch.Size([192, 192])
+a_shape: torch.Size([1, 197, 192])
+after modify:
+w_shape: torch.Size([1, 192, 192])
+a_shape: torch.Size([1, 197, 192])
+
+190893.0
+11229
+cp_time 14.289602994918823
+This is layer 10
+w[layerX]  1235_quantized
+WEIGHT_NAME = 1235_quantized
+MED_LAYER_NAME = 422_quantized
+w_shape: torch.Size([192, 768])
+a_shape: torch.Size([1, 197, 192])
+after modify:
+w_shape: torch.Size([1, 192, 768])
+a_shape: torch.Size([1, 197, 192])
+
+763572.0
+44916
+cp_time 55.23304080963135
+This is layer 11
+w[layerX]  1236_quantized
+WEIGHT_NAME = 1236_quantized
+MED_LAYER_NAME = 433_quantized
+w_shape: torch.Size([768, 192])
+a_shape: torch.Size([1, 197, 768])
+after modify:
+w_shape: torch.Size([1, 768, 192])
+a_shape: torch.Size([1, 197, 768])
+
+763173.0
+44916
+cp_time 54.7570264339447
+This is layer 12
+w[layerX]  1237_quantized
+WEIGHT_NAME = 1237_quantized
+MED_LAYER_NAME = 448_quantized
+w_shape: torch.Size([192, 576])
+a_shape: torch.Size([1, 197, 192])
+after modify:
+w_shape: torch.Size([1, 192, 576])
+a_shape: torch.Size([1, 197, 192])
+
+572679.0
+33687
+cp_time 41.89143896102905
+This is layer 13
+w[layerX]  1240_quantized
+WEIGHT_NAME = 1240_quantized
+MED_LAYER_NAME = 492_quantized
+w_shape: torch.Size([192, 192])
+a_shape: torch.Size([1, 197, 192])
+after modify:
+w_shape: torch.Size([1, 192, 192])
+a_shape: torch.Size([1, 197, 192])
+
+190893.0
+11229
+cp_time 13.993708610534668
+This is layer 14
+w[layerX]  1241_quantized
+WEIGHT_NAME = 1241_quantized
+MED_LAYER_NAME = 507_quantized
+w_shape: torch.Size([192, 768])
+a_shape: torch.Size([1, 197, 192])
+after modify:
+w_shape: torch.Size([1, 192, 768])
+a_shape: torch.Size([1, 197, 192])
+
+763572.0
+44916
+cp_time 55.258742809295654
+This is layer 15
+w[layerX]  1242_quantized
+WEIGHT_NAME = 1242_quantized
+MED_LAYER_NAME = 518_quantized
+w_shape: torch.Size([768, 192])
+a_shape: torch.Size([1, 197, 768])
+after modify:
+w_shape: torch.Size([1, 768, 192])
+a_shape: torch.Size([1, 197, 768])
+
+763458.0
+44916
+cp_time 55.17375373840332
+This is layer 16
+w[layerX]  1243_quantized
+WEIGHT_NAME = 1243_quantized
+MED_LAYER_NAME = 533_quantized
+w_shape: torch.Size([192, 576])
+a_shape: torch.Size([1, 197, 192])
+after modify:
+w_shape: torch.Size([1, 192, 576])
+a_shape: torch.Size([1, 197, 192])
+
+572679.0
+33687
+cp_time 41.213812828063965
+This is layer 17
+w[layerX]  1246_quantized
+WEIGHT_NAME = 1246_quantized
+MED_LAYER_NAME = 577_quantized
+w_shape: torch.Size([192, 192])
+a_shape: torch.Size([1, 197, 192])
+after modify:
+w_shape: torch.Size([1, 192, 192])
+a_shape: torch.Size([1, 197, 192])
+
+190893.0
+11229
+cp_time 14.127805471420288
+This is layer 18
+w[layerX]  1247_quantized
+WEIGHT_NAME = 1247_quantized
+MED_LAYER_NAME = 592_quantized
+w_shape: torch.Size([192, 768])
+a_shape: torch.Size([1, 197, 192])
+after modify:
+w_shape: torch.Size([1, 192, 768])
+a_shape: torch.Size([1, 197, 192])
+
+763572.0
+44916
+cp_time 55.119338035583496
+This is layer 19
+w[layerX]  1248_quantized
+WEIGHT_NAME = 1248_quantized
+MED_LAYER_NAME = 603_quantized
+w_shape: torch.Size([768, 192])
+a_shape: torch.Size([1, 197, 768])
+after modify:
+w_shape: torch.Size([1, 768, 192])
+a_shape: torch.Size([1, 197, 768])
+
+763572.0
+44916
+cp_time 55.06480312347412
+This is layer 20
+w[layerX]  1249_quantized
+WEIGHT_NAME = 1249_quantized
+MED_LAYER_NAME = 618_quantized
+w_shape: torch.Size([192, 576])
+a_shape: torch.Size([1, 197, 192])
+after modify:
+w_shape: torch.Size([1, 192, 576])
+a_shape: torch.Size([1, 197, 192])
+
+572679.0
+33687
+cp_time 41.38280987739563
+This is layer 21
+w[layerX]  1252_quantized
+WEIGHT_NAME = 1252_quantized
+MED_LAYER_NAME = 662_quantized
+w_shape: torch.Size([192, 192])
+a_shape: torch.Size([1, 197, 192])
+after modify:
+w_shape: torch.Size([1, 192, 192])
+a_shape: torch.Size([1, 197, 192])
+
+190893.0
+11229
+cp_time 14.04724669456482
+This is layer 22
+w[layerX]  1253_quantized
+WEIGHT_NAME = 1253_quantized
+MED_LAYER_NAME = 677_quantized
+w_shape: torch.Size([192, 768])
+a_shape: torch.Size([1, 197, 192])
+after modify:
+w_shape: torch.Size([1, 192, 768])
+a_shape: torch.Size([1, 197, 192])
+
+763572.0
+44916
+cp_time 55.333046197891235
+This is layer 23
+w[layerX]  1254_quantized
+WEIGHT_NAME = 1254_quantized
+MED_LAYER_NAME = 688_quantized
+w_shape: torch.Size([768, 192])
+a_shape: torch.Size([1, 197, 768])
+after modify:
+w_shape: torch.Size([1, 768, 192])
+a_shape: torch.Size([1, 197, 768])
+
+763572.0
+44916
+cp_time 55.23837733268738
+This is layer 24
+w[layerX]  1255_quantized
+WEIGHT_NAME = 1255_quantized
+MED_LAYER_NAME = 703_quantized
+w_shape: torch.Size([192, 576])
+a_shape: torch.Size([1, 197, 192])
+after modify:
+w_shape: torch.Size([1, 192, 576])
+a_shape: torch.Size([1, 197, 192])
+
+572679.0
+33687
+cp_time 41.69832706451416
+This is layer 25
+w[layerX]  1258_quantized
+WEIGHT_NAME = 1258_quantized
+MED_LAYER_NAME = 747_quantized
+w_shape: torch.Size([192, 192])
+a_shape: torch.Size([1, 197, 192])
+after modify:
+w_shape: torch.Size([1, 192, 192])
+a_shape: torch.Size([1, 197, 192])
+
+190893.0
+11229
+cp_time 14.137660264968872
+This is layer 26
+w[layerX]  1259_quantized
+WEIGHT_NAME = 1259_quantized
+MED_LAYER_NAME = 762_quantized
+w_shape: torch.Size([192, 768])
+a_shape: torch.Size([1, 197, 192])
+after modify:
+w_shape: torch.Size([1, 192, 768])
+a_shape: torch.Size([1, 197, 192])
+
+763572.0
+44916
+cp_time 55.30003499984741
+This is layer 27
+w[layerX]  1260_quantized
+WEIGHT_NAME = 1260_quantized
+MED_LAYER_NAME = 773_quantized
+w_shape: torch.Size([768, 192])
+a_shape: torch.Size([1, 197, 768])
+after modify:
+w_shape: torch.Size([1, 768, 192])
+a_shape: torch.Size([1, 197, 768])
+
+763572.0
+44916
+cp_time 55.302977561950684
+This is layer 28
+w[layerX]  1261_quantized
+WEIGHT_NAME = 1261_quantized
+MED_LAYER_NAME = 788_quantized
+w_shape: torch.Size([192, 576])
+a_shape: torch.Size([1, 197, 192])
+after modify:
+w_shape: torch.Size([1, 192, 576])
+a_shape: torch.Size([1, 197, 192])
+
+572679.0
+33687
+cp_time 42.02687931060791
+This is layer 29
+w[layerX]  1264_quantized
+WEIGHT_NAME = 1264_quantized
+MED_LAYER_NAME = 832_quantized
+w_shape: torch.Size([192, 192])
+a_shape: torch.Size([1, 197, 192])
+after modify:
+w_shape: torch.Size([1, 192, 192])
+a_shape: torch.Size([1, 197, 192])
+
+190893.0
+11229
+cp_time 14.104647159576416
+This is layer 30
+w[layerX]  1265_quantized
+WEIGHT_NAME = 1265_quantized
+MED_LAYER_NAME = 847_quantized
+w_shape: torch.Size([192, 768])
+a_shape: torch.Size([1, 197, 192])
+after modify:
+w_shape: torch.Size([1, 192, 768])
+a_shape: torch.Size([1, 197, 192])
+
+763572.0
+44916
+cp_time 55.42976212501526
+This is layer 31
+w[layerX]  1266_quantized
+WEIGHT_NAME = 1266_quantized
+MED_LAYER_NAME = 858_quantized
+w_shape: torch.Size([768, 192])
+a_shape: torch.Size([1, 197, 768])
+after modify:
+w_shape: torch.Size([1, 768, 192])
+a_shape: torch.Size([1, 197, 768])
+
+763572.0
+44916
+cp_time 55.20964169502258
+This is layer 32
+w[layerX]  1267_quantized
+WEIGHT_NAME = 1267_quantized
+MED_LAYER_NAME = 873_quantized
+w_shape: torch.Size([192, 576])
+a_shape: torch.Size([1, 197, 192])
+after modify:
+w_shape: torch.Size([1, 192, 576])
+a_shape: torch.Size([1, 197, 192])
+
+572679.0
+33687
+cp_time 41.645427942276
+This is layer 33
+w[layerX]  1270_quantized
+WEIGHT_NAME = 1270_quantized
+MED_LAYER_NAME = 917_quantized
+w_shape: torch.Size([192, 192])
+a_shape: torch.Size([1, 197, 192])
+after modify:
+w_shape: torch.Size([1, 192, 192])
+a_shape: torch.Size([1, 197, 192])
+
+190893.0
+11229
+cp_time 14.159867286682129
+This is layer 34
+w[layerX]  1271_quantized
+WEIGHT_NAME = 1271_quantized
+MED_LAYER_NAME = 932_quantized
+w_shape: torch.Size([192, 768])
+a_shape: torch.Size([1, 197, 192])
+after modify:
+w_shape: torch.Size([1, 192, 768])
+a_shape: torch.Size([1, 197, 192])
+
+763572.0
+44916
+cp_time 55.31174039840698
+This is layer 35
+w[layerX]  1272_quantized
+WEIGHT_NAME = 1272_quantized
+MED_LAYER_NAME = 943_quantized
+w_shape: torch.Size([768, 192])
+a_shape: torch.Size([1, 197, 768])
+after modify:
+w_shape: torch.Size([1, 768, 192])
+a_shape: torch.Size([1, 197, 768])
+
+763572.0
+44916
+cp_time 55.008310317993164
+This is layer 36
+w[layerX]  1273_quantized
+WEIGHT_NAME = 1273_quantized
+MED_LAYER_NAME = 958_quantized
+w_shape: torch.Size([192, 576])
+a_shape: torch.Size([1, 197, 192])
+after modify:
+w_shape: torch.Size([1, 192, 576])
+a_shape: torch.Size([1, 197, 192])
+
+572679.0
+33687
+cp_time 41.7293381690979
+This is layer 37
+w[layerX]  1276_quantized
+WEIGHT_NAME = 1276_quantized
+MED_LAYER_NAME = 1002_quantized
+w_shape: torch.Size([192, 192])
+a_shape: torch.Size([1, 197, 192])
+after modify:
+w_shape: torch.Size([1, 192, 192])
+a_shape: torch.Size([1, 197, 192])
+
+190893.0
+11229
+cp_time 14.28631854057312
+This is layer 38
+w[layerX]  1277_quantized
+WEIGHT_NAME = 1277_quantized
+MED_LAYER_NAME = 1017_quantized
+w_shape: torch.Size([192, 768])
+a_shape: torch.Size([1, 197, 192])
+after modify:
+w_shape: torch.Size([1, 192, 768])
+a_shape: torch.Size([1, 197, 192])
+
+763572.0
+44916
+cp_time 55.95504355430603
+This is layer 39
+w[layerX]  1278_quantized
+WEIGHT_NAME = 1278_quantized
+MED_LAYER_NAME = 1028_quantized
+w_shape: torch.Size([768, 192])
+a_shape: torch.Size([1, 197, 768])
+after modify:
+w_shape: torch.Size([1, 768, 192])
+a_shape: torch.Size([1, 197, 768])
+
+763572.0
+44916
+cp_time 55.744579792022705
+This is layer 40
+w[layerX]  1279_quantized
+WEIGHT_NAME = 1279_quantized
+MED_LAYER_NAME = 1043_quantized
+w_shape: torch.Size([192, 576])
+a_shape: torch.Size([1, 197, 192])
+after modify:
+w_shape: torch.Size([1, 192, 576])
+a_shape: torch.Size([1, 197, 192])
+
+572679.0
+33687
+cp_time 41.63913822174072
+This is layer 41
+w[layerX]  1282_quantized
+WEIGHT_NAME = 1282_quantized
+MED_LAYER_NAME = 1087_quantized
+w_shape: torch.Size([192, 192])
+a_shape: torch.Size([1, 197, 192])
+after modify:
+w_shape: torch.Size([1, 192, 192])
+a_shape: torch.Size([1, 197, 192])
+
+190893.0
+11229
+cp_time 14.07273006439209
+This is layer 42
+w[layerX]  1283_quantized
+WEIGHT_NAME = 1283_quantized
+MED_LAYER_NAME = 1102_quantized
+w_shape: torch.Size([192, 768])
+a_shape: torch.Size([1, 197, 192])
+after modify:
+w_shape: torch.Size([1, 192, 768])
+a_shape: torch.Size([1, 197, 192])
+
+763572.0
+44916
+cp_time 55.33122277259827
+This is layer 43
+w[layerX]  1284_quantized
+WEIGHT_NAME = 1284_quantized
+MED_LAYER_NAME = 1113_quantized
+w_shape: torch.Size([768, 192])
+a_shape: torch.Size([1, 197, 768])
+after modify:
+w_shape: torch.Size([1, 768, 192])
+a_shape: torch.Size([1, 197, 768])
+
+763515.0
+44916
+cp_time 55.13189482688904
+This is layer 44
+w[layerX]  1285_quantized
+WEIGHT_NAME = 1285_quantized
+MED_LAYER_NAME = 1128_quantized
+w_shape: torch.Size([192, 576])
+a_shape: torch.Size([1, 197, 192])
+after modify:
+w_shape: torch.Size([1, 192, 576])
+a_shape: torch.Size([1, 197, 192])
+
+572679.0
+33687
+cp_time 41.702569246292114
+This is layer 45
+w[layerX]  1288_quantized
+WEIGHT_NAME = 1288_quantized
+MED_LAYER_NAME = 1172_quantized
+w_shape: torch.Size([192, 192])
+a_shape: torch.Size([1, 197, 192])
+after modify:
+w_shape: torch.Size([1, 192, 192])
+a_shape: torch.Size([1, 197, 192])
+
+190893.0
+11229
+cp_time 14.111720561981201
+This is layer 46
+w[layerX]  1289_quantized
+WEIGHT_NAME = 1289_quantized
+MED_LAYER_NAME = 1187_quantized
+w_shape: torch.Size([192, 768])
+a_shape: torch.Size([1, 197, 192])
+after modify:
+w_shape: torch.Size([1, 192, 768])
+a_shape: torch.Size([1, 197, 192])
+
+763572.0
+44916
+cp_time 55.29465198516846
